@@ -8,7 +8,7 @@ widgets:
 - tag
 - twitter
 
-excerpt_link: Read More
+excerpt_link: Seguir leyendo
 
 twitter:
   username:
@@ -25,5 +25,5 @@ addthis:
 
 fancybox: true
 
-google_analytics:
+google_analytics: 'UA-5829629-6'
 rss:

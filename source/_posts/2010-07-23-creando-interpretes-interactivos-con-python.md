@@ -7,6 +7,7 @@ Python, al ser un lenguaje dinámico, facilita mucho la creación de intérprete
 
 En este arículo veremos algunas herramientas para que podamos crear nuestro propio intérprete de comandos.
 Algo básico con readline
+<!--more-->
 
 Readline es una biblioteca muy popular en GNU/Linux, se puede integrar a casi cualquier programa y permite crear autocompletados de comandos, historiales y busquedas.
 

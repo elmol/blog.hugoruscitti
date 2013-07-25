@@ -2,13 +2,13 @@ title: "Cocos y pyglet en modo interactivo"
 date: 2010-07-01
 tags: tip
 ---
-
-
-## Introducción
-
 Python tiene una herramienta super interesante para los nuevos programadores: una consola interactiva donde se puede editar, corregir y ejecutar código de manera super sencilla.
 
 Esto resulta de mucha utilidad cuando quieres dar clases sobre programación o simplemente dar una demostración sobre alguna biblioteca.
+<!--more-->
+
+## Introducción
+
 
 Lamentablemente la consola de python no se puede usar en cualquier escenario, por ejemplo si quieres dar una demostración de la biblioteca [cocos2d] desde la consola interactiva se te pueden presentar algunos problemas.
 

@@ -6,6 +6,8 @@ date: 2012-01-15
 En este artículo veremos cómo crear una grilla de
 imágenes para colocar en un videojuego.
 
+<!--more-->
+
 Usaremos [gimp] junto a unos complementos que escribí
 hace varios meses. Y por último, vamos
 a poner esa grilla en acción usando el motor [pilas]

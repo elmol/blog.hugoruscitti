@@ -13,6 +13,7 @@ En este artículo veremos una alternativa para empaquetar y distribuir nuestros 
 manera bastante sencilla, crearemos varios cargadores de juegos para bibliotecas como [pygame], [cocos2d] y
 [pilas-engine].
 
+<!--more-->
 
 ## Un adelanto para impacientes
 
