@@ -1,6 +1,8 @@
 menu:
-  Home: /
-  Archives: /archives
+  Principal: /
+  Archivo: /archives
+  Acerca de: /acercade
+
 
 widgets: 
 - search
@@ -11,7 +13,7 @@ widgets:
 excerpt_link: Seguir leyendo
 
 twitter:
-  username:
+  username: hugoruscitti
   show_replies: false
   tweet_count: 5
 
